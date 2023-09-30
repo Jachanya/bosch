@@ -10,3 +10,5 @@ We can observe from the spike that there was a sharp turn towards the right side
 We also plot the data of all the objects over time to see where the hit occur and we can see this in the figure below.
 
 ![image](Figure_1.png)
+
+The proposed model for the final stage was to build a representation of the environment and predict the next 10 seconds and determine if any current object will have an impact to the ego vehicle.
